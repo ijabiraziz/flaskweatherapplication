@@ -5,7 +5,7 @@ with the backend of different web application or websites .
 
 After running the code lets say on local host, then you need to 
 put the name of intended city or country (who's weather you wants to know)
-in url. for instance, http://127.0.0.1:5000/newyork
+in url. for instance, http://127.0.0.1:5000/newyork or
                       http://127.0.0.1:5000/lahore
                       
 Every time you enter a country or city name it will store in database right away.
