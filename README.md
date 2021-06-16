@@ -1,7 +1,12 @@
 # flaskweatherapplication
 I have used flask framework beside some basic HTML5+CSS3.
 Flask is a micro python based web-framework that helps to deal 
-with the backend of different web application or websites .
+with the backend of different web application or websites.
+
+To work with Flask we need to import the Flask(with capital 'F') Class from flask (with small 'f')
+i.e, from Flask import flask.
+Then intiate the application by using the statement given below:
+app = Flask(__name__)
 
 After running the code lets say on local host, then you need to 
 put the name of intended city or country (who's weather you wants to know)
